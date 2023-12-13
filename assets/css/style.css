@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Changed this from a class selector to an element selector */
+/* Changed the below stylings from a class selector to a semantic element selector: header  */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,13 +16,13 @@ header {
     color: #ffffff;
 }
 
-/* Changed this from a class selector to an element selector */
+
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Changed this from a class selector to an element selector */
+/* Changed from .seo to ID since this instance only occurs once in the document */
 header #seo {
     color: #d9dcd6;
 }
@@ -36,12 +36,10 @@ nav {
     font-size: 20px;
 }
 
-/* Changed this from a class selector to an element selector of nav*/
 nav ul {
     list-style-type: none;
 }
 
-/* Changed this from a class selector to an element selector of nav */
 nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -102,7 +100,7 @@ p {
     margin-left: 20px;
 }
 
-/* Switched to ID from a class */
+/* Switched from class selector to ID selector */
 #benefits {
     margin-right: 20px;
     padding: 20px;
@@ -131,7 +129,7 @@ p {
     max-width: 150px;
 }
 
-/* Switched from class to semantic element*/
+/* Switched from class selector to semantic element selector */
 footer {
     padding: 30px;
     clear: both;
@@ -139,7 +137,7 @@ footer {
     text-align: center;
 }
 
-/* Switch this to element then ID selector for the p element to remove h2 element from footer */
+/* Switch this to ID selector within an element selector for the p element to remove h2 element from footer */
 footer #madewith {
     font-size: 20px;
     font-weight: bold;
