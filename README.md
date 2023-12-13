@@ -13,13 +13,18 @@ I learned the following:
 The final website can be viewed here:
 https://briandwach.github.io/horiseonseorefactor
 
-- Please use the 3 navigation links at the top, right of the page in order to test functionality of the links on the page.  (You may need to change the horizontal window size to test the last 2 links)
+- Please use the 3 navigation links at the top, right of the page in order to test functionality of the links on the page.  (You may need to change the horizontal size of your browser window to test the last 2 links)
 
 The code repository can be accessed here:
 https://github.com/briandwach/horiseonseorefactor
 
+
+![Final page top](./assets/images/finalpagetop.png)
+![Final page bottom](./assets/images/finalpagebottom.png)
+
+
 ## Credits
 Original code was provided by the Northwestern University GitLab repository: NU-VIRT-FSF-PT-12-2023-U-LOLC
 
-At the following private link:
+at the following private link:
 https://git.bootcampcontent.com/Northwestern-University/NU-VIRT-FSF-PT-12-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge?ref_type=heads
