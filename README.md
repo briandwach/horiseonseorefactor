@@ -3,7 +3,7 @@
 ## The goal of this project was to update Horiseon's website so that it follows accessibility standards and is optimized for search engines.  
 
 I learned the following:
-- How to follow the Scouts Rule and leave someone else's code cleaner than it was delivered to me.
+- How to follow the Scout Rule and leave someone else's code cleaner than it was delivered to me.
 - How to update an HTML document so it follows a more semantic structure. 
 - How to clean up a CSS stylesheet to remove redundant style properties and make it easier to navigate.
 - How to add alt attributes to image elements, a concise title, and ordered headings to improve accessibility and search engine optimization.
